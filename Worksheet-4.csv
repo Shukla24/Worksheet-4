@@ -1,0 +1,195 @@
+"STATISTICS",""
+"1","The Central Limit Theorem (CLT) is a mainstay of statistics and probability. The theorem expresses that as the size of the sample expands, the distribution of the mean among multiple samples will be like a Gaussian distribution.We can think of doing a trial and getting an outcome or an observation. We can rehash the test again and get another independent observation.The CLT gives us a certain distribution over our estimations. We can utilize this to pose an inquiry about the probability of an estimate that we make. For example, assume we are attempting to think about how an election will turn out.The CLT works from the center out. That implies on the off chance that you are presuming close to the center, for example, that around two-thirds of future totals will fall inside one standard deviation of the mean, you can be secure even with little samples."
+"2","Sampling is a technique of selecting individual members or a subset of the population to make statistical inferences from them and estimate characteristics of the whole population. Different sampling methods are widely used by researchers in market research so that they do not need to research the entire population to collect actionable insights. It is also a time-convenient and a cost-effective method and hence forms the basis of any research design. Sampling techniques can be used in a research survey software for optimum derivation.For example, if a drug manufacturer would like to research the adverse side effects of a drug on the country’s population, it is almost impossible to conduct a research study that involves everyone. In this case, the researcher decides a sample of people from each demographic and then researches them, giving him/her indicative feedback on the drug’s behavior.Types of sampling: sampling methods 1. Probability sampling: Probability sampling is a sampling technique where a researcher sets a selection of a few criteria and chooses members of a population randomly. All the members have an equal opportunity to be a part of the sample with this selection parameter.2.Non-probability sampling: In non-probability sampling, the researcher chooses members for research at random. This sampling method is not a fixed or predefined selection process. This makes it difficult for all elements of a population to have equal opportunities to be included in a sample."
+"3","Type I Error
+The first kind of error that is possible involves the rejection of a null hypothesis that is actually true. This kind of error is called a type I error and is sometimes called an error of the first kind.Type I errors are equivalent to false positives. Let’s go back to the example of a drug being used to treat a disease. If we reject the null hypothesis in this situation, then our claim is that the drug does, in fact, have some effect on a disease. But if the null hypothesis is true, then, in reality, the drug does not combat the disease at all. The drug is falsely claimed to have a positive effect on a disease.
+
+Type I errors can be controlled. The value of alpha, which is related to the level of significance that we selected has a direct bearing on type I errors. Alpha is the maximum probability that we have a type I error. For a 95% confidence level, the value of alpha is 0.05. This means that there is a 5% probability that we will reject a true null hypothesis. In the long run, one out of every twenty hypothesis tests that we perform at this level will result in a type I error.Type II Error-The other kind of error that is possible occurs when we do not reject a null hypothesis that is false. This sort of error is called a type II error and is also referred to as an error of the second kind.
+
+Type II errors are equivalent to false negatives. If we think back again to the scenario in which we are testing a drug, what would a type II error look like? A type II error would occur if we accepted that the drug had no effect on a disease, but in reality, it did.
+
+The probability of a type II error is given by the Greek letter beta. This number is related to the power or sensitivity of the hypothesis test, denoted by 1 – beta.
+
+Type I errors are equivalent to false positives. Let’s go back to the example of a drug being used to treat a disease. If we reject the null hypothesis in this situation, then our claim is that the drug does, in fact, have some effect on a disease. But if the null hypothesis is true, then, in reality, the drug does not combat the disease at all. The drug is falsely claimed to have a positive effect on a disease.
+
+Type I errors can be controlled. The value of alpha, which is related to the level of significance that we selected has a direct bearing on type I errors. Alpha is the maximum probability that we have a type I error. For a 95% confidence level, the value of alpha is 0.05. This means that there is a 5% probability that we will reject a true null hypothesis. In the long run, one out of every twenty hypothesis tests that we perform at this level will result in a type I error."
+"4","A normal distribution is an arrangement of a data set in which most values cluster in the middle of the range and the rest taper off symmetrically toward either extreme.Height is one simple example of something that follows a normal distribution pattern: Most people are of average height, the numbers of people that are taller and shorter than average are fairly equal and a very small (and still roughly equivalent) number of people are either extremely tall or extremely short.the mean, or average, which is the maximum of the graph and about which the graph is always symmetric; and the standard deviation, which determines the amount of dispersion away from the mean. A small standard deviation (compared with the mean) produces a steep graph, whereas a large standard deviation (again compared with the mean) produces a flat graph. "
+"5","Correlation. Covariance is a measure of how much two random variables vary together. Correlation is a statistical measure that indicates how strongly two variables are related.Covariance and Correlation are two mathematical concepts which are commonly used in the field of probability and statistics. Both concepts describe the relationship between two variables.
+
+Covariance –
+
+It is the relationship between a pair of random variables where change in one variable causes change in another variable.
+It can take any value between -infinity to +infinity, where the negative value represents the negative relationship whereas a positive value represents the positive relationship.
+It is used for the linear relationship between variables.
+It gives the direction of relationship between variables.Correlation –
+
+It show whether and how strongly pairs of variables are related to each other.
+Correlation takes values between -1 to +1, wherein values close to +1 represents strong positive correlation and values close to -1 represents strong negative correlation.
+In this variable are indirectly related to each other.
+It gives the direction and strength of relationship between variables."
+"6","Univarate Analysis
+Univariate analysis is the simplest form of data analysis where the data being analyzed contains only one variable. Since it's a single variable it doesn’t deal with causes or relationships.  The main purpose of univariate analysis is to describe the data and find patterns that exist within it.
+You can think of the variable as a category that your data falls into. One example of a variable in univariate analysis might be ""age"". Another might be ""height"". Univariate analysis would not look at these two variables at the same time, nor would it look at the relationship between them.
+Some ways you can describe patterns found in univariate data include looking at mean, mode, median, range, variance, maximum, minimum, quartiles, and standard deviation. Additionally, some ways you may display univariate data include frequency distribution tables, bar charts, histograms, frequency polygons, and pie charts.Bivarate Analysis
+Bivariate analysis is used to find out if there is a relationship between two different variables. Something as simple as creating a scatterplot by plotting one variable against another on a Cartesian plane (think X and Y axis) can sometimes give you a picture of what the data is trying to tell you. If the data seems to fit a line or curve then there is a relationship or correlation between the two variables.  For example, one might choose to plot caloric intake versus weight.Multivariate Analysis
+Multivariate analysis is the analysis of three or more variables.  There are many ways to perform multivariate analysis depending on your goals.  Some of these methods include:
+Additive Tree
+Canonical Correlation Analysis
+Cluster Analysis
+Correspondence Analysis / Multiple Correspondence Analysis
+Factor Analysis
+Generalized Procrustean Analysis
+MANOVA
+Multidimensional Scaling
+Multiple Regression Analysis
+Partial Least Square Regression
+Principal Component Analysis / Regression / PARAFAC
+Redundancy Analysis."
+"7","The technique used to determine how independent variable values will impact a particular dependent variable under a given set of assumptions is defined as sensitive analysis. It’s usage will depend on one or more input variables within the specific boundaries, such as the effect that changes in interest rates will have on a bond’s price.
+It is also known as the what – if analysis. Sensitivity analysis can be used for any activity or system.Sensitivity analysis works on the simple principle: Change the model and observe the behavior.
+
+The parameters that one needs to note while doing the above are:
+
+A) Experimental design: It includes combination of parameters that are to be varied. This includes a check on which and how many parameters need to vary at a given point in time, assigning values (maximum and minimum levels) before the experiment, study the correlations: positive or negative and accordingly assign values for the combination.
+
+B) What tfo vary:The different parameters that can be chosen to vary in the model could be:
+a) the number of activities
+b) the objective in relation to the risk assumed and the profits expected
+c) technical parameters
+d) number of constraints and its limits
+
+C) What to observe:
+a) the value of the objective as per the strategy
+b) value of the decision variables
+c) value of the objective function between two strategies adopted
+
+Measurement of sensitivity analysis
+Below are mentioned the steps used to conduct sensitivity analysis:
+
+Firstly the base case output is defined; say the NPV at a particular base case input value (V1) for which the sensitivity is to be measured. All the other inputs of the model  are kept constant.
+Then the value of the output at a new value of the input (V2) while keeping other inputs constant is calculated.
+Find the percentage change in the output and the percentage change in the input.
+The sensitivity is calculated by dividing the percentage change in output by the percentage change in input.
+This process of testing sensitivity for another input (say cash flows growth rate) while keeping the rest of inputs constant is repeated until the sensitivity figure for each of the inputs is obtained. The conclusion would be that the higher the sensitivity figure, the more sensitive the output is to any change in that input and vice versa.
+
+Methods of Sensitivity Analysis
+There are different methods to carry out the sensitivity analysis:
+
+Modeling and simulation techniques
+Scenario management tools through Microsoft excel
+There are mainly two approaches to analyzing sensitivity:
+
+Local Sensitivity Analysis
+Global Sensitivity Analysis
+Local sensitivity analysis is derivative based (numerical or analytical). The term local indicates that the derivatives are taken at a single point. This method is apt for simple cost functions, but not feasible for complex models, like models with discontinuities do not always have derivatives.
+
+Mathematically, the sensitivity of the cost function with respect to certain parameters is equal to the partial derivative of the cost function with respect to those parameters.
+
+Local sensitivity analysis is a one-at-a-time (OAT) technique that analyzes the impact of one parameter on the cost function at a time, keeping the other parameters fixed.
+
+Global sensitivity analysis is the second approach to sensitivity analysis, often implemented using Monte Carlo techniques. This approach uses a global set of samples to explore the design space.
+
+The various techniques widely applied include:
+
+Differential sensitivity analysis: It is also referred to the direct method. It involves solving simple partial derivatives to temporal sensitivity analysis. Although this method is computationally efficient, solving equations is intensive task to handle.
+One at a time sensitivity measures: It is the most fundamental method with partial differentiation, in which varying parameters values are taken one at a time. It is also called as local analysis as it is an indicator only for the addressed point estimates and not the entire distribution.
+Factorial Analysis: It involves the selection of given number of samples for a specific parameter and then running the model for the combinations. The outcome is then used to carry out parameter sensitivity.Sensitivity analysis is one of the tools that help decision makers with more than a solution to a problem. It provides an appropriate insight into the problems associated with the model under reference. Finally the decision maker gets a decent idea about how sensitive is the optimum solution chosen by him to any changes in the input values of one or more parameters."
+"8","A statistical hypothesis is an assertion or conjecture concerning one or more populations. To prove that a hypothesis is true, or false, with absolute certainty, we would need absolute knowledge. That is, we would have to examine the entire population. Instead, hypothesis testing concerns on how to use a random sample to judge if it is evidence that supports or not the hypothesis.Hypothesis testing is formulated in terms of two hypotheses:
+• H0: the null hypothesis;
+• H1: the alternate hypothesis.The hypothesis we want to test is if H1 is “likely” true.
+So, there are two possible outcomes:
+• Reject H0 and accept H1 because of sufficient evidence in
+the sample in favor or H1;
+• Do not reject H0 because of insufficient evidence to
+support H1."
+"9","Quantitative data are used when a researcher is trying to quantify a problem, or address the ""what"" or ""how many"" aspects of a research question. It is data that can either be counted or compared on a numeric scale. For example, it could be the number of first year students at Macalester, or the ratings on a scale of 1-4 of the quality of food served at Cafe Mac. This data are usually gathered using instruments, such as a questionnaire which includes a ratings scale or a thermometer to collect weather data. Statistical analysis software, such as SPSS, is often used to analyze quantitative data.Qualitative data describes qualities or characteristics. It is collected using questionnaires, interviews, or observation, and frequently appears in narrative form. For example, it could be notes taken during a focus group on the quality of the food at Cafe Mac, or responses from an open-ended questionnaire. Qualitative data may be difficult to precisely measure and analyze. The data may be in the form of descriptive words that can be examined for patterns or meaning, sometimes through the use of coding. Coding allows the researcher to categorize qualitative data to identify themes that correspond with the research questions and to perform quantitative analysis."
+"10","The range is calculated by subtracting the lowest value from the highest valueStep 1: Order the data.In order to calculate the IQR, we need to begin by ordering the values of the data set from the least to the greatest. Likewise, in order to calculate the median, we need to arrange the numbers in ascending order (i.e. from the least to the greatest).Step 2: Calculate the median.Step 3: Upper and lower medians.Once we have found the median of the entire set, we can find the medians of the upper and lower portions of the data. If the data set has an odd number of values, we will omit the median or centermost value of the set. Afterwards, we will find the individual medians for the upper and lower portions of the data.Step 4: Calculate the differenceLast, we need to calculate the difference of the upper and lower medians by subtracting the lower median from the upper median. This value equals the IQR.
+"
+"11","A bell curve is a common type of distribution for a variable, also known as the normal distribution. The term ""bell curve"" originates from the fact that the graph used to depict a normal distribution consists of a symmetrical bell-shaped curve.The highest point on the curve, or the top of the bell, represents the most probable event in a series of data (its mean, mode, and median in this case), while all other possible occurrences are symmetrically distributed around the mean, creating a downward-sloping curve on each side of the peak. The width of the bell curve is described by its standard deviation.A bell curve is a graph depicting the normal distribution, which has a shape reminiscent of a bell.
+The top of the curve shows the mean, mode, and median of the data collected. 
+Its standard deviation depicts the bell curve's relative width around the mean.
+Bell curves (normal distributions) are used commonly in statistics, including in analyzing economic and financial data.The term ""bell curve"" is used to describe a graphical depiction of a normal probability distribution, whose underlying standard deviations from the mean create the curved bell shape. A standard deviation is a measurement used to quantify the variability of data dispersion, in a set of given values around the mean. The mean, in turn, refers to the average of all data points in the data set or sequence and will be found at the highest point on the bell curve."
+"12","Z-Score-The Z-score is the signed number of standard deviations by which the value of an observation or data point is above the mean value of what is being observed or measured.
+The intuition behind Z-score is to describe any data point by finding their relationship with the Standard Deviation and Mean of the group of data points. Z-score is finding the distribution of data where mean is 0 and standard deviation is 1 i.e. normal distribution.
+You must be wondering that, how does this help in identifying the outliers? Well, while calculating the Z-score we re-scale and center the data and look for data points which are too far from zero. These data points which are way too far from zero will be treated as the outliers. In most of the cases a threshold of 3 or -3 is used i.e if the Z-score value is greater than or less than 3 or -3 respectively, that data point will be identified as outliers."
+"13","The P value, or calculated probability, is the probability of finding the observed, or more extreme, results when the null hypothesis (H 0) of a study question is true – the definition of 'extreme' depends on how the hypothesis is being tested."
+"14","Binomial probability refers to the probability of exactly x successes on n repeated trials in an experiment which has two possible outcomes (commonly called a binomial experiment).
+If the probability of success on an individual trial is p , then the binomial probability is nCx⋅px⋅(1−p)n−x ."
+"15","Analysis of variance is a collection of statistical models and their associated estimation procedures used to analyze the differences among means.There are two main types: one-way and two-way. Two-way tests can be with or without replication.
+One-way ANOVA between groups: used when you want to test two groups to see if there’s a difference between them.
+Two way ANOVA without replication: used when you have one group and you’re double-testing that same group. For example, you’re testing one set of individuals before and after they take a medication to see if it works or not.
+Two way ANOVA with replication: Two groups, and the members of those groups are doing more than one thing. For example, two groups of patients from different hospitals trying two different therapies.ANOVA Test: Definition, Types, Examples. Application of ANOVA-STATITICAL DATA ANALYSIS COMMON TYPES OF ANALYSIS? 1. Examine Strength and Direction of Relationships a. Bivariate (e.g., Pearson Correlation—r)  Between one variable and another: rxy or Y = a + b1 x1 b. Multivariate (e.g., Multiple Regression Analysis)  Between one dep. var. and each of several indep. variables, while holding all other indep. variables constant: Y = a + b1 x1 + b2 x2 + b3 x3 + . . . + bk xk 2. Compare Groups a. Compare Proportions (e.g., Chi-Square Test—2) H0: P1 = P2 = P3 = … = Pk b. Compare Means (e.g., Analysis of Variance) H0: µ1 = µ2 = µ3 = …= µk. To compare the mean values of a certain characteristic among two or more groups. • To see whether two or more groups are equal (or different) on a given metric characteristic.4 H0: There are no differences among the mean values of the groups being compared (i.e., the group means are all equal)– H0: µ1 = µ2 = µ3 = …= µk H1 (Conclusion if H0 rejected)? Not all group means are equal (i.e., at least one group mean is different from the rest). Scenario 1. When comparing 2 groups, a one-step test : 2 Groups: A B Step 1: Check to see if the two groups are different or not, and if so, how. • Scenario 2. When comparing >3 groups, if H0 is rejected, it is a two-step test: >3 Groups: A B C Step 1: Overall test that examines if all groups are equal or not. And, if not all are equal (H0 rejected), then: Step 2: Pair-wise (post-hoc) comparison tests to see where (i.e., 5 So, the number of steps involved in ANOVA depend on if we are comparing 2 groups or > 2 groups:"
+"",""
+"MACHINE LEARNING",""
+"",""
+"1","c"
+"2","D"
+"3","C"
+"4","D"
+"5","D"
+"6","D"
+"7","D"
+"8","D"
+"9","A,B,C"
+"10","A,B,D"
+"11","An outlier is an observation that lies an abnormal distance from other values in a random sample from a population. In a sense, this definition leaves it up to the analyst (or a consensus process) to decide what will be considered abnormal. Before abnormal observations can be singled out, it is necessary to characterize normal observations. Two activities are essential for characterizing a set of data:
+Examination of the overall shape of the graphed data for important features, including symmetry and departures from assumptions. The chapter on Exploratory Data Analysis (EDA) discusses assumptions and summarization of data in detail.
+Examination of the data for unusual observations that are far removed from the mass of data. These points are often referred to as outliers. Two graphical techniques for identifying outliers, scatter plots and box plots, along with an analytic procedure for detecting outliers when the distribution is normal (Grubbs' Test), are also discussed in detail in the EDA chapter.Using the Interquartile Rule to Find OutliersThough it's not often affected much by them, the interquartile range can be used to detect outliers. This is done using these steps:
+
+
+Calculate the interquartile range for the data.
+Multiply the interquartile range (IQR) by 1.5 (a constant used to discern outliers).
+Add 1.5 x (IQR) to the third quartile. Any number greater than this is a suspected outlier.
+Subtract 1.5 x (IQR) from the first quartile. Any number less than this is a suspected outlier.
+Remember that the interquartile rule is only a rule of thumb that generally holds but does not apply to every case. In general, you should always follow up your outlier analysis by studying the resulting outliers to see if they make sense. Any potential outlier obtained by the interquartile method should be examined in the context of the entire set of data."
+"12","Bagging and Boosting are two types of Ensemble Learning. These two decrease the variance of single estimate as they combine several estimates from different models. So the result may be a model with higher stability.
+
+If the difficulty of the single model is over-fitting, then Bagging is the best option.
+If the problem is that the single model gets a very low performance, Boosting could generate a combined model with lower errors as it optimises the advantages and reduces pitfalls of the single model.iN bAGGING-Simplest way of combining predictions that
+belong to the same type,Aim to decrease variance, not bias.,Each model receives equal weight,Each model is built independently.Different training data subsets are randomly drawn with replacement from the entire training dataset.In BOOSTING-A way of combining predictions that
+belong to the different typesAim to decrease bias, not variance. Aim to decrease bias, not variance.Models are weighted according to their performance.New models are influenced
+by performance of previously built models."
+"13","R-squared (R2) is a statistical measure that represents the proportion of the variance for a dependent variable that's explained by an independent variable or variables in a regression model. Whereas correlation explains the strength of the relationship between an independent and dependent variable, R-squared explains to what extent the variance of one variable explains the variance of the second variable. So, if the R2 of a model is 0.50, then approximately half of the observed variation can be explained by the model's inputs.use the adjusted coefficient of determination to determine how well a multiple regression equation “fits” the sample data. The adjusted coefficient of determination is closely related to the coefficient of determination (also known as R2) that you use to test the results of a simple regression equation.
+
+The adjusted coefficient of determination (also known as adjusted R2 or
+
+image0.png
+pronounced “R bar squared”) is a statistical measure that shows the proportion of variation explained by the estimated regression line.Variation refers to the sum of the squared differences between the values of Y and the mean value of Y, expressed mathematically as
+
+image1.png
+
+Adjusted R2 always takes on a value between 0 and 1. The closer adjusted R2 is to 1, the better the estimated regression equation fits or explains the relationship between X and Y.
+
+The key difference between R2 and adjusted R2 is that R2 increases automatically as you add new independent variables to a regression equation (even if they don’t contribute any new explanatory power to the equation). Therefore, you want to use adjusted R2 with multiple regression analysis. Adjusted R2 increases only when you add new independent variables that do increase the explanatory power of the regression equation, making it a much more useful measure of how well a multiple regression equation fits the sample data than R2.The following equation shows the relationship between adjusted R2 and R2:
+
+image2.png
+
+n = the sample size
+
+k = the number of independent variables in the regression equation.For example, suppose that the Human Resources department of a major corporation wants to determine whether the salaries of its employees are related to the employees’ years of work experience and their level of graduate education. To test this idea, the HR department picks a sample of eight employees randomly and records their annual salaries (measured in thousands of dollars per year), years of experience, and years of graduate education.R2 is found in the figure; it’s labeled “R Square” and equals 0.944346527. The sample contains eight observations, and there are two independent variables (years of experience and years of graduate education).The range of possible values for the adjusted coefficient of determination is from 0 to 1; in mathematical terms,
+
+image5.png
+
+Based on the value of adjusted R2, the proportion of variation explained by the estimated regression line is approximately 0.922 or 92.2 percent. Thus, the estimated regression equation fits or explains the relationship between X and Y.
+"
+"14","Standardization refers to shifting the distribution of each attribute to have a mean of zero and a standard deviation of one (unit variance). It is useful to standardize attributes for a model that relies on the distribution of attributes such as Gaussian processes.Normalization or normalisation refers to a process that makes something more normal or regular. Most commonly it refers to: Normalization (sociology) or social normalization, the process through which ideas and behaviors that may fall outside of social norms come to be regarded as ""normal"""
+"15","Cross Validation in Machine Learning is a great technique to deal with overfitting problem in various algorithms. Instead of training our model on one training dataset, we train our model on many datasets.Advantages of Cross Validation- Reduces Overfitting: In Cross Validation, we split the dataset into multiple folds and train the algorithm on different folds. This prevents our model from overfitting the training dataset. So, in this way, the model attains the generalization capabilities which is a good sign of a robust algorithm.Disadvantages of Cross Validation-Increases Training Time: Cross Validation drastically increases the training time. Earlier you had to train your model only on one training set, but with Cross Validation you have to train your model on multiple training sets. 
+
+For example, if you go with 5 Fold Cross Validation, you need to do 5 rounds of training each on different 4/5 of available data. And this is for only one choice of hyperparameters. If you have multiple choice of parameters, then the training period will shoot too high."
+"",""
+"SQL",""
+"1","create table customers(customerNumber int NOT NULL Primary key, customerName varchar(50) NOT NULL, contactLastName varchar(55),contactFirstName varchar(55) Not Null, phone bigint Not Null, addressLine1 varchar(255) Not Null , addressLine2 varchar(255) Not Null, city varchar (50) Not Null, state varchar(55) Not Null, postalCode int Not Null, country varchar(55) Not Null, SalesRepemployeeNumber int Not Null, credit limit int Not Null);"
+"2","cerate table orders(orderNumber primary key not null,orderDate datetime , requiredDate datetime,shippedDate date time,status nvarchar(55),comment nvarchar(255),customerNumber int;"
+"3","select productName from products where MSRP in (select min(MSRP) from products;"
+"4","select productName from products where quantityInstock=(select MAX(quantityInstock) from products); "
+"5","select TOP 1 productName from products order by orderName;"
+"6","select paymentDate, sum(amount) as TotalPaymentAmount from payments;"
+"7","select customerNumber, customerNmae from cutomers where city ='Melbourne city';"
+"8","select customerName from customers where customerNmae like'N%' ;"
+"9","select customerName from customers where (phone like'7%') and (city='Las vegas');"
+"10","select customerNmae from customers where creditlimit <1000 and (city =' Las Vegas' or city =""nantes"" or ""Stavern"");"
+"11","select a.orderNumber from orders a a join orderdetails as b on a.orderNumber where b.quantity ordered <10;"
+"12","select a.orderNumber from orders as join customers as b on a.customersNumber==b.customerNumberLike'n%';"
+"13","select a.customerName from customers as a join orders as b on a.customerNumber==b.customerNumber where b.status=""Disputed"";"
+"14","select customerNmae from customers as a join payments b on a.customernumber==b.customerNumber where b.paymetDate =""2004-10-19"" a.customerNmaeLike'M%';"
+"15","Select checkNumnber from payments where >1000;"
